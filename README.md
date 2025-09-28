@@ -3,39 +3,9 @@
 
 A modern, browser-based photo booth application that allows users to capture photos with real-time filters using their device's camera. Built with vanilla HTML5, CSS3, and JavaScript.
 
-![Photo Booth Demo](./screenshots/photo-booth-main.png)
 
-## 📸 Screenshots
 
-### Main Interface
-![Main Interface](./screenshots/main-interface.png)
-*The main photo booth interface with live camera preview and filter options*
 
-### Filter Examples
-<div align="center">
-
-| Normal | Vintage | Dramatic |
-|--------|---------|----------|
-| ![Normal Filter](./screenshots/filter-normal.png) | ![Vintage Filter](./screenshots/filter-vintage.png) | ![Dramatic Filter](./screenshots/filter-dramatic.png) |
-
-| Grayscale | Color Pop | Warm |
-|-----------|-----------|------|
-| ![Grayscale Filter](./screenshots/filter-grayscale.png) | ![Color Pop Filter](./screenshots/filter-colorpop.png) | ![Warm Filter](./screenshots/filter-warm.png) |
-
-</div>
-
-### Gallery View
-![Gallery View](./screenshots/gallery-view.png)
-*Photo gallery showing captured images with download options*
-
-### Mobile Responsive Design
-<div align="center">
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](./screenshots/desktop-view.png) | ![Mobile](./screenshots/mobile-view.png) |
-
-</div>
 
 ## ✨ Features
 
